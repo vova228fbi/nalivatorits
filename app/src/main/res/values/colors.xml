@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+
+    <color name="my_color_one">#FCFCE3</color>
+    <color name="my_color_two">#895AFA</color>
+    <color name="my_color_three">#D5EDE6</color>
+    <color name="my_color_four">#5116DD</color>
+    <color name="my_color_wtf">#90F0D5</color>
+
+
+    <color name="my_color_one3">#FCFCE3</color>
+    <color name="my_color_two3">#1A5791</color>
+    <color name="my_color_three3">#FCECE3</color>
+    <color name="my_color_four3">#461A71</color>
+    <color name="my_color_wtf3">#e3f3fc</color>
+
+
+    <color name="my_color_one2">#C9E5FF</color>
+    <color name="my_color_two2">#4976A1</color>
+    <color name="my_color_three2">#FDEFC4</color>
+    <color name="my_color_four2">#F8CF50</color>
+    <color name="my_color_wtf2">#4976A1</color>
+
+
+
+    <color name="my_color_one1">#a1d1ff</color>
+    <color name="my_color_two1">#2C6DAA</color>
+    <color name="my_color_three1">#FFE7A1</color>
+    <color name="my_color_four1">#AA8B2C</color>
+</resources>

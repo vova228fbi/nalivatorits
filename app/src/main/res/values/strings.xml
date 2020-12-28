@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">nalivator</string>
+    <string name="str_vibrat_podkl">Выбрать подключение</string>
+    <string name="str_clear_weather">Промывка</string>
+    <string name="str_open_record_file">Открыть запись</string>
+    <string name="str_chenge_record_file">Редактировать запись</string>
+    <string name="str_create_record_file">Создать запись</string>
+    <string name="t_save">Сохранить</string>
+    <string name="t_back">Отмена</string>
+    <string-array name="animals">
+        <item>Кот</item>
+        <item>Кошка</item>
+        <item>Котёнок</item>
+        <item>Животное</item>
+    </string-array>
+    <string-array name="list_chenge_number_of_glassesanimals">
+        <item>2 рюмки</item>
+        <item>3 рюмки</item>
+        <item>4 рюмки</item>
+        <item>5 рюмок</item>
+        <item>6 рюмок</item>
+    </string-array>
+    <string-array name="list_number_of_glassesanimals">
+        <item>1-я рюмка</item>
+        <item>2-я рюмка</item>
+        <item>3-я рюмка</item>
+        <item>4-я рюмка</item>
+        <item>5-я рюмка</item>
+        <item>6-я рюмка</item>
+    </string-array>
+</resources>
